@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <lis.cpp>
 using namespace std;
 
 int main(void){
