@@ -1,7 +1,7 @@
 /* algoritmo de PD correspondente ao problema da LIS*/
 class Solution {
-public:
-    int lengthOfLongestSubstring(string s) {
+static public:
+    int lis(string s) {
         int tam = s.length(); 
         int dp[tam];
         int listmax=0;
